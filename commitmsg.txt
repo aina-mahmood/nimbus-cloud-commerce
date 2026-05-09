@@ -1,3 +1,0 @@
-Configure AWS SSR deployment for Nimbus Cloud Commerce.
-
-Add Elastic Beanstalk startup/process config, dynamic PORT handling, and CI workflow scaffold so the TanStack Start SSR app can run on managed AWS Node infrastructure.
